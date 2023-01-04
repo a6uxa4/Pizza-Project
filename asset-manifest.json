@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/a6uxa4/Pizza-Project.git/static/css/main.56b9430a.css",
+    "main.js": "/a6uxa4/Pizza-Project.git/static/js/main.6f5e501f.js",
+    "static/media/PizzaThree.svg": "/a6uxa4/Pizza-Project.git/static/media/PizzaThree.9bc082a1bb7ae9c50580d56a37c1ce79.svg",
+    "static/media/PizzaFour.svg": "/a6uxa4/Pizza-Project.git/static/media/PizzaFour.b8a675d961ad333317f244c988c4a33f.svg",
+    "static/media/PizzaOne.svg": "/a6uxa4/Pizza-Project.git/static/media/PizzaOne.a39bb40ab5204bd68bbd4da5a0070dc3.svg",
+    "static/media/PizzaTwo.svg": "/a6uxa4/Pizza-Project.git/static/media/PizzaTwo.87e927486bd27d5482ae70e3ab829e6b.svg",
+    "static/media/pizzsIcon.svg": "/a6uxa4/Pizza-Project.git/static/media/pizzsIcon.cf6d3b6be905864076d6bda85444ef62.svg",
+    "static/media/BaskerNotFound.svg": "/a6uxa4/Pizza-Project.git/static/media/BaskerNotFound.903eff3144cd70abf2614eec897d6974.svg",
+    "static/media/BasketDelete.svg": "/a6uxa4/Pizza-Project.git/static/media/BasketDelete.175ffd2eaefe683173798a7dff0bc568.svg",
+    "static/media/Baskettext.svg": "/a6uxa4/Pizza-Project.git/static/media/Baskettext.ed15e09e317f7b0ea2e05ba796a06895.svg",
+    "index.html": "/a6uxa4/Pizza-Project.git/index.html",
+    "main.56b9430a.css.map": "/a6uxa4/Pizza-Project.git/static/css/main.56b9430a.css.map",
+    "main.6f5e501f.js.map": "/a6uxa4/Pizza-Project.git/static/js/main.6f5e501f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b9430a.css",
+    "static/js/main.6f5e501f.js"
+  ]
+}
