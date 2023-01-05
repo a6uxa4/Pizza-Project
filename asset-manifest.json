@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pizza-Project/static/css/main.3a140f01.css",
-    "main.js": "/Pizza-Project/static/js/main.c5558d43.js",
+    "main.js": "/Pizza-Project/static/js/main.e635ba1d.js",
     "static/media/PizzaThree.svg": "/Pizza-Project/static/media/PizzaThree.9bc082a1bb7ae9c50580d56a37c1ce79.svg",
     "static/media/PizzaFour.svg": "/Pizza-Project/static/media/PizzaFour.b8a675d961ad333317f244c988c4a33f.svg",
     "static/media/PizzaOne.svg": "/Pizza-Project/static/media/PizzaOne.a39bb40ab5204bd68bbd4da5a0070dc3.svg",
@@ -12,10 +12,10 @@
     "static/media/Baskettext.svg": "/Pizza-Project/static/media/Baskettext.ed15e09e317f7b0ea2e05ba796a06895.svg",
     "index.html": "/Pizza-Project/index.html",
     "main.3a140f01.css.map": "/Pizza-Project/static/css/main.3a140f01.css.map",
-    "main.c5558d43.js.map": "/Pizza-Project/static/js/main.c5558d43.js.map"
+    "main.e635ba1d.js.map": "/Pizza-Project/static/js/main.e635ba1d.js.map"
   },
   "entrypoints": [
     "static/css/main.3a140f01.css",
-    "static/js/main.c5558d43.js"
+    "static/js/main.e635ba1d.js"
   ]
 }
