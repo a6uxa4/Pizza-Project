@@ -1,0 +1,6 @@
+body{
+  margin: auto;
+  display: grid;
+  place-items: center;
+  background-color: rgba(255, 223, 140, 1);
+}
